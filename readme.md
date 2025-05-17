@@ -1,7 +1,7 @@
 # OS notes
 
-try to refer these channels, or just try to get what concepts are there and learn with ai tools:
-tuf
+try to refer these channels, or just try to get what concepts are there and learn with ai tools:  
+tuf  
 https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O   
 https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p   
 ritikumari  
